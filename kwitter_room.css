@@ -1,0 +1,31 @@
+
+body
+{
+background-image: url(bl.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+h1
+{
+    color: rgb(255, 236, 236);
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+#logout
+{
+	font-size: 20px;
+     float: right;
+     margin-top: 20px;
+}
+
+#output
+{
+	padding: 10px; 
+    width:80%;background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
