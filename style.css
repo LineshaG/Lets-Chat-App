@@ -16,11 +16,11 @@ background-color: rgb(218, 218, 252);
 
 .header
 {
-	color: white;
-    font-family: 'Yeon Sung';
-    font-size: 45px; 
-	letter-spacing: 10px; 
+	color: rgb(255, 130, 218);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;  
 	margin-top: 80px;
+	font-weight: 800;
 }
 .header img
 { 
